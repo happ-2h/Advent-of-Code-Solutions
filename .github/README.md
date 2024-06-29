@@ -1,3 +1,36 @@
 # Advent of Code Solutions
 
 My solutions for the [Advent of Code](https://adventofcode.com/) events.
+
+## Tools Used
+<div>
+  <img align="left" width="30px" alt="c-logo" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <p>clang</p>
+</div>
+
+<div>
+  <img align="left" width="30px" alt="c++-logo" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <p>clang++</p>
+</div>
+
+<div>
+  <img align="left" width="30px" alt="fortran-logo" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
+  <p>gfortran</p>
+</div>
+
+<div>
+  <img align="left" width="30px" alt="js-logo" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <p>node</p>
+</div>
+
+<div>
+  <img align="left" width="30px" alt="kotlin-logo" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <p>kotlinc</p>
+</div>
+
+### Assembly
+<div>
+  <img align="left" width="30px" alt="aarch64-logo" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+  <p>as and ld on Android using Termux</p>
+  <p>32-bit arm on Raspberry Pi 1 B+</p>
+</div>
