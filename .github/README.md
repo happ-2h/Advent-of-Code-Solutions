@@ -34,3 +34,11 @@ My solutions for the [Advent of Code](https://adventofcode.com/) events.
   <p>as and ld on Android using Termux</p>
   <p>32-bit arm on Raspberry Pi 1 B+</p>
 </div>
+
+## Incomplete Solutions
+- 2015
+  - [ ] Day 15
+  - [ ] Day 17
+  - [ ] Day 19
+  - [ ] Day 22
+  - [ ] Day 24
