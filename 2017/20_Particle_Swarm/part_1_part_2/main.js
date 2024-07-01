@@ -1,5 +1,5 @@
 /**
- * Author: @NE- https://github.com/NE-
+ * Author: happ_2h https://github.com/happ-2h
  *
  * Solution for Advent of Code 2017 Day 20.1 and 20.2
  */
